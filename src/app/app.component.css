@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'latoregular';
+  src: url('../assets/fonts/lato-regular-webfont.woff2') format('woff2'),
+  url('../assets/fonts/lato-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;}
+
+@font-face {
+  font-family: 'novecentodemibold';
+  src: url('../assets/fonts/novecentosanswide-demiBold-webfont.woff2') format('woff2'),
+  url('../assets/fonts/novecentosanswide-demiBold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;}
+
+body {
+  margin: 7%;}
+
+.banner-principal {
+  width: 100%;
+  margin: 0;
+  display: flex;
+  padding: 0px;}
+
+h2 {margin-left: 100px}
+
+h2{
+  text-align: center;
+  font-size: 38px;
+  font-family: 'novecentodemibold';
+  color: #4A305A;
+  margin: 130px 0;
+
+}
+
+nav{
+  text-align: right;
+  font-size: 17px;
+  font-family: 'latoregular';
+  color: #3c3c3c;
+  margin: 130px 0;
+
+}

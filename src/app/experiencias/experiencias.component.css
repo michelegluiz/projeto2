@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'latoregular';
+  src: url('../../assets/fonts/lato-regular-webfont.woff2') format('woff2'),
+  url('../../assets/fonts/lato-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;}
+
+@font-face {
+  font-family: 'novecentodemibold';
+  src: url('../../assets/fonts/novecentosanswide-demiBold-webfont.woff2') format('woff2'),
+  url('../../assets/fonts/novecentosanswide-demiBold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;}
+
+.div-escola {
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  font-family: 'novecentodemibold';
+  text-align: left;
+  font-size: 18px;
+  padding: 35px 31px;
+  background-color: white;
+  border: solid 3px #0075A0;
+  border-radius: 30px;
+  flex-wrap: wrap;
+  margin: 3%;
+}
+
+
+.botao-escola {
+  color: #0075A0;
+  display: flex;
+  flex-wrap: wrap;
+  }
+
+img {
+  display: block;
+  margin: auto;
+  width: 22%;
+}
+
+.conteudoescola {
+  font-family: 'latoregular';
+  text-align: center;
+  font-size: 11px;
+  padding: 16px 12px;
+  background-color: white;
+  border: solid 3px #EDB600;
+  border-radius: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 364px;
+  margin: 2px 1px 1px 16px;
+}
+
+h4{
+  text-align: left;
+  font-size: 28px;
+  font-family: 'novecentodemibold';
+  color: #0075A0;
+  margin: 40px 26px;
+
+}
+
+hover{
+  color: #808285!important;
+  font-family: 'latoregular'}
+
+
+.nome-escola{
+  font-size: 18px;
+  width: 100%;
+  margin: 20% 0 0 0;
+  text-align: left;
+  display: block;
+  font-family: 'latoregular', 'sans-serif';
+  box-sizing: border-box;
+  max-width: 960px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+p {
+  font-size: 18px;
+  color: #3C3C3C!important;}
+
+
+footer {font-size: 10px;
+  text-align: center;}
+
